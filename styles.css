@@ -1,8 +1,161 @@
-/*
+input[data-task="1"]:checked:after,
+li[data-task="1"]>input:checked:after,
+li[data-task="1"]>p>input:checked:after {
+    content: "1";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
 
-If your plugin does not need CSS, delete this file.
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}
 
-*/
+input[data-task="2"]:checked:after,
+li[data-task="2"]>input:checked:after,
+li[data-task="2"]>p>input:checked:after {
+    content: "2";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
+
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}
+
+input[data-task="3"]:checked:after,
+li[data-task="3"]>input:checked:after,
+li[data-task="3"]>p>input:checked:after {
+    content: "3";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
+
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}
+
+input[data-task="4"]:checked:after,
+li[data-task="4"]>input:checked:after,
+li[data-task="4"]>p>input:checked:after {
+    content: "4";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
+
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}
+
+input[data-task="5"]:checked:after,
+li[data-task="5"]>input:checked:after,
+li[data-task="5"]>p>input:checked:after {
+    content: "5";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
+
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}
+
+input[data-task="6"]:checked:after,
+li[data-task="6"]>input:checked:after,
+li[data-task="6"]>p>input:checked:after {
+    content: "6";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
+
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}
+
+input[data-task="7"]:checked:after,
+li[data-task="7"]>input:checked:after,
+li[data-task="7"]>p>input:checked:after {
+    content: "7";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
+
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}
+
+input[data-task="8"]:checked:after,
+li[data-task="8"]>input:checked:after,
+li[data-task="8"]>p>input:checked:after {
+    content: "8";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
+
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}
+
+input[data-task="9"]:checked:after,
+li[data-task="9"]>input:checked:after,
+li[data-task="9"]>p>input:checked:after {
+    content: "9";
+    font-family: 'Consolas';
+    font-weight: bold;
+    font-size: 16px;    
+
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--background-primary);
+    -webkit-mask-image: unset;
+    background-color: transparent;
+}

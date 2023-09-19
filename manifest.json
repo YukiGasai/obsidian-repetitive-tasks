@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "repetitive-tasks",
+	"name": "Repetitive Tasks",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "A plugin to allow the definition of repetitive tasks",
+	"author": "YukiGasai",
+	"authorUrl": "https://github.com/YukiGasai",
+	"isDesktopOnly": false,
+	"fundingUrl": "https://ko-fi.com/YukiGasai"
 }
