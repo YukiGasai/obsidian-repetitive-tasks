@@ -1,11 +1,11 @@
 {
 	"name": "repetitive-tasks",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A plugin to allow the definition of repetitive tasks",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
-		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+		"build": "node esbuild.config.mjs production"
 	},
 	"keywords": [],
 	"author": "YukiGasai",
